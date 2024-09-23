@@ -4,6 +4,8 @@ Welcome to your new `hello` project and to the Internet Computer development com
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
+frontend deployed at: https://yzg7x-eiaaa-aaaan-qm3ja-cai.icp0.io/
+
 To learn more before you start working with `hello`, see the following documentation available online:
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/setup/deploy-locally)
